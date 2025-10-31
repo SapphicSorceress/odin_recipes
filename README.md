@@ -6,7 +6,7 @@ A simple recipe website built as part of [The Odin Project](https://www.theodinp
 
 ## About 🍳
 
-**Odin Recipes** is a small website showcasing a few of my family's recipes. The webiste is in French so my parents can take a look! 
+**Odin Recipes** is a small website showcasing a few of my family's recipes. The website is in French so my parents can take a look! 
 It’s designed to practice building a multi-page HTML site from scratch using links, images, lists, and good structure.  
 
 You’ll find a few delicious examples like:
